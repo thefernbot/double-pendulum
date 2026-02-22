@@ -2,7 +2,7 @@
 
 Interactive chaos theory simulation demonstrating how a double pendulum exhibits sensitive dependence on initial conditions.
 
-**Live:** https://double-pendulum-eta.vercel.app
+**Live:** https://double-pendulum-rose.vercel.app
 
 ## Features
 
